@@ -1,2 +1,0 @@
-PtolemyAlmagest.csv
-===================
